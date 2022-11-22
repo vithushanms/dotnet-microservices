@@ -18,6 +18,8 @@ namespace DotnetMicroservice.FlightcatelogService.Models
         public DateTime TakeOffTime { get; set; }
         [Required]
         public string Destination { get; set; }
+        [Required]
+        public bool IsAvailable {get; set;}
     }
 }
 
