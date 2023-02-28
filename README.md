@@ -16,3 +16,4 @@ for further context please refer to the high level [solution architecture](https
 .NET 6 </br>
 Rabbit MQ </br>
 Docker </br>
+</br>
